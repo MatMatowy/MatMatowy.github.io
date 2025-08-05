@@ -14,7 +14,7 @@
       "sizes": "72x72",
       "type": "image/png"
     }, {
-      "src": "",
+      "src": "apple.png",
       "sizes": "96x96",
       "type": "image/png"
     }, {
@@ -22,7 +22,7 @@
       "sizes": "144x144",
       "type": "image/png"
     }, {
-      "src": "apple.png",
+      "src": "",
       "sizes": "168x168",
       "type": "image/png"
     }, {
@@ -36,4 +36,5 @@
     }]
 
   }
+
 
